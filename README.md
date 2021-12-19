@@ -1,4 +1,7 @@
 # Nota-de-Remisi-n
+Dentro de la carpeta Proyecto/src se encuentran los archivos .java y las imagenes de las marcas de las tiendas, ropa y de los
+botones de instrucciones.
+
 Crear una aplicación sin errores de un sistema de ventas en este caso de ropa, haciendo usos de interfaces graficas con swing.
 
 El programa de primera instancia nos muestra una interfaz sencilla para el que lo maneje, sepa que hacer casi como por instinto.
