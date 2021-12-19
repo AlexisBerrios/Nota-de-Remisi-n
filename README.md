@@ -1,4 +1,4 @@
-# Nota-de-Remisi-n
+# Sistema de Ventas - Nota de Remision
 Dentro de la carpeta Proyecto/src se encuentran los archivos .java y las imagenes de las marcas de las tiendas, ropa y de los
 botones de instrucciones.
 
